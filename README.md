@@ -4,7 +4,7 @@
 
 ### ** To quickly overview the whole project and results, go to "doc" folder and look for "Presentation Slides.pdf", which is the one I used to give a speech about this project.
 
-### ** To rerun the codes and examine all the details, go to "doc" folder and run "Main.R".
+### ** To rerun the codes and examine all the details, go to "doc" folder and run "Main.Rmd".
 
 
 + Project summary: 
