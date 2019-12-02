@@ -2,6 +2,11 @@
 <img src="figs/CE.jpg" alt="Compound Emotions" width="500"/>
 (Image source: https://www.pnas.org/content/111/15/E1454)
 
+### ** To quickly overview the whole project and results, go to "doc" folder and look for "Presentation Slides.pdf", which is the one I used to give a speech about this project.
+
+### ** To rerun the codes and examine all the details, go to "doc" folder and run "Main.R".
+
+
 + Project summary: 
 
 In this project, we created a classification engine for images of different facial expressions. We firstly extract linear distance features using SFFS and KSVM. Then, we also added some nonlinear features such as areas and slopes based on basic features.
