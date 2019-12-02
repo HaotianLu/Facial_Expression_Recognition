@@ -1,4 +1,4 @@
-# Project3: Facial Expression Recognition
+## Project 3: Facial Expression Recognition
 <img src="figs/CE.jpg" alt="Compound Emotions" width="500"/>
 (Image source: https://www.pnas.org/content/111/15/E1454)
 
